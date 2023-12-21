@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Nitram21, a Java developer. My current biggest project is the [JTA](https://www.github.com/NitramMann21/JTA), an API you can make Twitch bots with.
-You can find my GitHub pages page [here](https://nitrammann21.github.io/).
+I'm Nitram21, a Java developer. My current biggest project is [Blobby Engine](https://www.github.com/TheNitram21/Blobby-Engine), a 2D game engine inspired by Valve's Source Engine.
+You can find my GitHub pages page [here](https://thenitram21.github.io/).
 
 <!--
-**NitramMann21/NitramMann21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TheNitram21/TheNitram21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
