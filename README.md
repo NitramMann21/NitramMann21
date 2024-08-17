@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nitram21, a Java developer. My current biggest project is [Blobby Engine](https://www.github.com/TheNitram21/Blobby-Engine), a 2D game engine inspired by Valve's Source Engine.
+I'm Nitram21, a Java developer. My current biggest project is [Blobby3D](https://www.github.com/TheNitram21/Blobby3D), a 3D game engine inspired by Valve's Source Engine.
 You can find my GitHub pages page [here](https://thenitram21.github.io/).
 
 <!--
